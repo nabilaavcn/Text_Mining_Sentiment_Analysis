@@ -1,6 +1,6 @@
-#README - CORETAX Sentiment Analysis
+# README - CORETAX Sentiment Analysis
 
-##**Background**
+## **Background**
 
 CORETAX, launched by Indonesia’s Directorate General of Taxes (DGT) in January, aims to modernize tax administration. However, since its launch, users have reported issues such as system errors, slow processing, and accessibility problems. Public sentiment, especially on X (formerly Twitter), provides valuable insights into its reception.
 

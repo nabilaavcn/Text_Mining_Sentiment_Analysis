@@ -16,15 +16,15 @@ Directorate of Taxation Information and Technology (TIP), Indonesian Tax Ministr
 
 We conducted a sentiment analysis on tweets mentioning CORETAX, categorizing them as positive or negative using NLP techniques like tokenization and sentiment classification.
 
-## **Dataset**
+## **Dataset**
 
-Column: Name	Description
-id_str:	Unique identifier for each tweet
-username:	Twitter handle of the user
-created_at:	Tweet date and time
-full_text:	Content of the tweet
-retweet_count:	Number of shares
-favorite_count:	Number of likes
+- Column: Name	Description
+- id_str:	Unique identifier for each tweet
+- username:	Twitter handle of the user
+- created_at:	Tweet date and time
+- full_text:	Content of the tweet
+- retweet_count:	Number of shares
+- favorite_count:	Number of likes
 
 ## **Findings**
 
